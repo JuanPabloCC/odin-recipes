@@ -9,7 +9,12 @@
     list-style-position: inside;
 }
 
+body {
+    background-color: bisque;
+}
+
 .recipe-pic {
     display: block;
     margin: 0 auto;
 }
+
