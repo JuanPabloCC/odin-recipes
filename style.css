@@ -1,5 +1,6 @@
 * {
     font-family: 'Courier New', Courier, monospace;
+    /* outline: solid 2px red; */
 }
 
 body {
@@ -25,4 +26,11 @@ body {
 
 .description, .ingredients, .steps {
     font-size: 24px;
+}
+
+.home-link{
+    font-size: 36px;
+    font-weight: bolder;
+    display: block;
+    text-align: center;
 }
