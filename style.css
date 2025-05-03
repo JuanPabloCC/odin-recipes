@@ -2,6 +2,10 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+body {
+    background-color: bisque;
+}
+
 .body {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -9,12 +13,7 @@
     list-style-position: inside;
 }
 
-body {
-    background-color: bisque;
-}
-
 .recipe-pic {
     display: block;
     margin: 0 auto;
 }
-
